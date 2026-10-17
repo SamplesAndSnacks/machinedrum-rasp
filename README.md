@@ -4,7 +4,7 @@ RASP is a custom USR machine for the Elektron Machinedrum running the community 
 
 The core of the sound is a stream of short closure clicks, cut from real recordings, and timed by a small breath model. The model sets how hard you blow, how long the breath lasts, and whether it buzzes steadily or breaks up. RUFF sweeps from a dark, steady, harmonic **buzz** to a bright, broken **sputter** that stalls and pops.
 
-**Download: [RASP.syx](RASP.syx)** (version 0.1, 15,666 bytes; SHA-256 `482300c133eb82607921e52108f81d141f7f2797236d41f71019f17d957ca6b8`)
+**Download: [RASP.syx](https://github.com/SamplesAndSnacks/machinedrum-rasp/raw/main/RASP.syx)** (version 0.1, 15,666 bytes; SHA-256 `482300c133eb82607921e52108f81d141f7f2797236d41f71019f17d957ca6b8`)
 
 ## Requirements
 
