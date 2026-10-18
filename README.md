@@ -5,7 +5,8 @@ Custom USR machines for the Elektron Machinedrum running the community **X.20** 
 | Machine | Sound | Download | Details |
 |---|---|---|---|
 | **RASP** (RSP-LV) | A blown trill: buzz to sputter | [RASP.syx](https://github.com/SamplesAndSnacks/machinedrum-rasp/raw/main/RASP.syx) | [RASP.md](RASP.md) |
-| **KOOK** (KK) | A laughing kookaburra | [KOOK.syx](https://github.com/SamplesAndSnacks/machinedrum-rasp/raw/main/KOOK.syx) | [KOOK.md](KOOK.md) |
+| **KOOK** (BRD-KK) | A laughing kookaburra | [KOOK.syx](https://github.com/SamplesAndSnacks/machinedrum-rasp/raw/main/KOOK.syx) | [KOOK.md](KOOK.md) |
+| **SMSH** (PNO-SM) | A piano being smashed | [SMSH.syx](https://github.com/SamplesAndSnacks/machinedrum-rasp/raw/main/SMSH.syx) | [SMSH.md](SMSH.md) |
 
 All machines work on any Machinedrum (MKI or MKII, UW or non-UW) on X.20, and none of them use the sample banks.
 

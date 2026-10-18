@@ -18,7 +18,7 @@ The note timing, pitch contours, harmonics and roughness were measured from fiel
 With any SysEx tool (for example Elektron's C6, SysEx Librarian or MIDI-OX):
 1. On the Machinedrum, open the machine manager (**FUNC + GLOBAL → FILE → MACHINE MGR**), choose an empty slot and select **RECV**.
 2. Send `KOOK.syx` from your SysEx tool.
-3. KOOK appears in the machine list as **KK**. Press **FUNC + YES** to audition it.
+3. KOOK appears in the machine list as **BRD-KK**. Press **FUNC + YES** to audition it.
 
 Back up your Machinedrum before installing any third-party machine. You install it at your own risk.
 
